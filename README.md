@@ -1,6 +1,6 @@
-### Hi there, welcome to my profile 👋
+### Hi there, welcome 👋
 
-*My name is Ezequiel, I'm 18 years old and I have a dream since I was a child to be a great programmer*
+*Programador Java júnior, API REST & Java Bukkit*
 
 ### Currently learning:
 
